@@ -1,0 +1,30 @@
+@import 'tailwindcss';
+
+@font-face {
+    font-family: 'Gilroy-regular';
+    src: url('fonts/Gilroy-Regular.ttf');
+
+    font-family: 'Gilroy-bold';
+    src: url('fonts/Gilroy-Bold.ttf');
+
+}
+
+@theme {
+    --font-gilroy-regular: "Gilroy-regular", "sans-serif";
+    --font-gilroy-bold: "Gilroy-Bold", "sans-serif";
+
+}
+
+@layer base {
+    * {
+        font-family: var(--font-gilroy);
+    }
+}
+
+@layer components {}
+
+a:hover {
+    transition: color 300ms ease-in-out, transform 300ms ease-in-out;
+    color: #E58411;
+    transform: scale(1.05);
+}
