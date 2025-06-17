@@ -11,7 +11,7 @@ La página está desplegada y accesible a través de Netlify:
 ## 📸 Demo Visual
 
 
-![Demo en acción](./images/panto-video.gif)
+![Demo en acción](./img/panto-video.gif)
 
 ---
 
