@@ -6,7 +6,13 @@ Bienvenido al repositorio de Panto, una elegante landing page diseñada para una
 
 La página está desplegada y accesible a través de Netlify:
 
-[Ver Panto en Netlify](panto-oscargaal.netlify.app)
+[Ver Panto en Netlify](https://panto-oscargaal.netlify.app/)
+
+## 📸 Demo Visual
+
+![Demo en acción](./img/panto-video.gif)
+
+---
 
 ## 📸 Demo Visual
 
