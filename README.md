@@ -8,6 +8,12 @@ La página está desplegada y accesible a través de Netlify:
 
 [Ver Panto en Netlify](panto-oscargaal.netlify.app)
 
+## 📸 Demo Visual
+
+![Demo en acción](./img/panto-video.gif)
+
+---
+
 ## ✨ Características Principales
 
 - **Diseño Moderno y Minimalista**: Interfaz limpia y atractiva que refleja la estética de los productos de mobiliario.
